@@ -1,0 +1,35 @@
+{
+  "F_Name": "Scott",
+  "L_Name": "Jenks",
+  "Birthdate":
+    {
+    "Month": "May",
+    "Day": 28,
+    "Year": 1985
+    }
+  "Roles":
+    [
+    {
+    "Job_Name": "Watcher",
+    "Department": "Electronics"
+    },
+    {
+    "Job_Name": "Cleaner",
+    "Department": "Kitchen"
+    }
+    ]
+  "Dependents":
+    [
+    {
+    "First_Name": "Luiz",
+    "Last_Name": "Soares",
+    "Relationship": "Spouse"
+    },
+    {
+    "First_Name": "Mica",
+    "Last_Name": "Jenks-Soares",
+    "Relationship": "Dog"
+    }
+    ]
+}
+  

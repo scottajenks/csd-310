@@ -1,3 +1,9 @@
+#Scott Jenks
+#Module 7.2 - Movies: Table Queries
+#11/21/2022
+
+#https://github.com/scottajenks/csd-310.git
+
 import mysql.connector
 from mysql.connector import errorcode
 
