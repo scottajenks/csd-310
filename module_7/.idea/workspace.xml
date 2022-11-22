@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44d8bc4d-fde6-45d6-9235-7cfb7230fd85" name="Changes" comment="Update Code">
-      <change beforePath="$PROJECT_DIR$/movies_queries.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies_queries.py" afterDir="false" />
-    </list>
+    <list default="true" id="44d8bc4d-fde6-45d6-9235-7cfb7230fd85" name="Changes" comment="Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669073736795</updated>
-      <workItem from="1669073757765" duration="6973000" />
+      <workItem from="1669073757765" duration="7199000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1669079943964</created>
@@ -64,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669080512777</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update">
+      <created>1669080880363</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669080880363</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,7 +90,8 @@
     <MESSAGE value="Upload" />
     <MESSAGE value="Add a closing window input." />
     <MESSAGE value="Update Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Code" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/module_7$movies_queries.coverage" NAME="movies_queries Coverage Results" MODIFIED="1669079797869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
