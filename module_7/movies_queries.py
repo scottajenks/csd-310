@@ -78,5 +78,7 @@ for director in directors:
 
 db.close()
 
+close = input("Press Enter to Close.")
+
 
 
