@@ -13,7 +13,7 @@ try:
 
     print("\n Database user {} connected to MySQL on host {} with database {}".format(
         config["user"], config["host"], config["database"]))
-    input("\n\n Press any key to continue...")
+    input("\n\n Press any key to continue...\n")
 
 except mysql.connector.Error as err:
     if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
@@ -36,7 +36,7 @@ studios = cursor.fetchall()
 for studio in studios:
     print("Studio ID: {}\nStudio Name: {}\n".format(studio[0], studio[1]))
 
-print("-- DISPLAYING Genre RECORDS --")
+print("\n-- DISPLAYING Genre RECORDS --")
 
 cursor = db.cursor()
 
@@ -49,7 +49,7 @@ genres = cursor.fetchall()
 for genre in genres:
     print("Genre ID: {}\nGenre Name: {}\n".format(genre[0], genre[1]))
 
-print("-- DISPLAYING Short Film RECORDS --")
+print("\n-- DISPLAYING Short Film RECORDS --")
 
 cursor = db.cursor()
 
@@ -63,7 +63,7 @@ for film in films:
     if film[1] < 120:
         print("Film Name: {}\nRuntime: {}\n".format(film[0], film[1]))
 
-print("-- DISPLAYING Director RECORDS in Order --")
+print("\n-- DISPLAYING Director RECORDS in Order --")
 
 cursor = db.cursor()
 
