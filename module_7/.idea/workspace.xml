@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44d8bc4d-fde6-45d6-9235-7cfb7230fd85" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/../module_8/jenks_module_8.2_movies_update_and_delete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module_6/~$nks_module_6.2_movies_setup.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ca3efc17-8afe-4241-966c-fdce6b881ffd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ca3efc17-8afe-4241-966c-fdce6b881ffd.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$nks_module_7.2_table_queries.docx" beforeDir="false" />
-    </list>
+    <list default="true" id="44d8bc4d-fde6-45d6-9235-7cfb7230fd85" name="Changes" comment="Upload Module 8.2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669073736795</updated>
       <workItem from="1669073757765" duration="7444000" />
-      <workItem from="1669431682064" duration="10477000" />
+      <workItem from="1669431682064" duration="10776000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1669079943964</created>
@@ -91,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669081108090</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Upload Module 8.2">
+      <created>1669515636972</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669515636972</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +113,8 @@
     <MESSAGE value="Add a closing window input." />
     <MESSAGE value="Update Code" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Upload Module 8.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload Module 8.2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/module_7$movies_queries.coverage" NAME="movies_queries Coverage Results" MODIFIED="1669079797869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
